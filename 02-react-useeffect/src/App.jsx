@@ -1,7 +1,7 @@
 import { BasicUseEffect } from "./components/BasicUseEffect"
 import { BesicBergantung } from "./components/BesicBergantung"
 import { CleanEffect } from "./components/CleanEffect"
-
+import "./App.css"
 function App() {
 
   return (
